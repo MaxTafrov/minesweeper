@@ -17,7 +17,7 @@ const css = {
 		background-color: #493628;
 		justify-content: center;
 		align-items: center;
-		padding: 20px; /* Добавим отступы для маленьких экранов */
+		padding: 20px;
 	`,
 	CenteredBox: styled.div`
 		display: flex;
@@ -27,7 +27,6 @@ const css = {
 		min-height: 100vh;
 		width: 675px;
 
-		/* Адаптация для мобильных */
 		@media (max-width: 768px) {
 			width: 100%;
 			min-height: auto;
@@ -45,7 +44,6 @@ const css = {
 		padding: 10px;
 		box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 
-		/* Адаптация для мобильных */
 		@media (max-width: 768px) {
 			height: auto;
 			width: 100%;
@@ -58,7 +56,6 @@ const css = {
 		color: #1b110a;
 		margin-top: 10px;
 
-		/* Адаптация для мобильных */
 		@media (max-width: 768px) {
 			font-size: 36px;
 		}
@@ -74,7 +71,6 @@ const css = {
 		box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 		margin-top: 20px;
 
-		/* Адаптация для мобильных */
 		@media (max-width: 768px) {
 			height: 300px;
 			width: 300px;
