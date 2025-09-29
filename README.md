@@ -57,8 +57,6 @@ yarn start
 
 - ✉️ Email loler20017@gmail.com
 
-- 💬 Telegram [@maksudaww](https://t.me/maksudaww)
-
 - 🔗 LinkedIn [Maxim Tafrov](https://www.linkedin.com/in/maxim-tafrov-56a243378/)
 
 ⭐ Don't forget to leave a star, if you liked my repo 😉
